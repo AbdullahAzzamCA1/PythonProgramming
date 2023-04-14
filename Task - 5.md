@@ -8,6 +8,8 @@ https://colab.research.google.com/drive/1D1iA2YLk3jorJsM3sY0uPUIi4aBVLGU-?usp=sh
 
 ### Modul 2 - Olah Data Iris (Unlean)
 
+https://colab.research.google.com/drive/1uCWfo_rXT2kiLQy6bjSLYz4HhH0BsRIL?usp=sharing
+
 ### Modul 3 - Data Visualization Iris
 
 
