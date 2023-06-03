@@ -6,7 +6,7 @@ Abdullah Azzam | 20.01.013.075 | Python Programming - C
 
 https://colab.research.google.com/drive/1D1iA2YLk3jorJsM3sY0uPUIi4aBVLGU-?usp=sharing
 
-### Modul 2 - Olah Data Iris (Unlean)
+### Modul 2 - Olah Data Iris (Unclean)
 
 https://colab.research.google.com/drive/1uCWfo_rXT2kiLQy6bjSLYz4HhH0BsRIL?usp=sharing
 
